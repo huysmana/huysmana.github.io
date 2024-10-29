@@ -19,7 +19,7 @@
       "url": "https://umd.edu",
       "area": "Entomology",
       "studyType": "PhD",
-      "startDate": "2023-09",
+      "startDate": "2023",
       "endDate": "present"
           },
       {
@@ -28,18 +28,17 @@
       "url": "https://humboldt.edu",
       "area": "Natural Resources - Wildlife",
       "studyType": "MSc",
-      "startDate": "2017-09",
-      "endDate": "2019-12"
+      "startDate": "2017",
+      "endDate": "2019"
       },
             {
       "institution": "Cornell University",
       "location": "Ithaca, NY, USA",
       "url": "https://cornell.edu",
-      "area": "Majors in Natural Resources and Animal Science"
-      "subarea": "Minors in Spanish and Latin American Studies",
+      "area": "Majors in Natural Resources and Animal Science, Minors in Spanish and Latin American Studies",
       "studyType": "BSc",
-      "startDate": "2011-08",
-      "endDate": "2015-05"
+      "startDate": "2011",
+      "endDate": "2015"
       }
       
   ],
