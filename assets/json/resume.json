@@ -81,10 +81,10 @@
       "name": "Field Research",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Bird banding for songbirds and raptors (including setting up mist nets and safe extraction of birds)",
-        "Nest monitoring; blood sample collection of nestling and adult songbirds",
-        "Attachment of geolocators and GPS transmitters",
-        "Insect sampling using methods like Malaiset traps and sweep nets"
+        "Bird banding for songbirds and raptors",
+        "Nest monitoring",
+        "Attachment of geolocators and GPS tags",
+        "Insect sampling"
       ]
     },
         {
@@ -112,7 +112,7 @@
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Insect sample processing and identification",
-        "Analysis of fecal samples by DNA metabarcoding"
+        "DNA metabarcoding"
       ]
     }
   ],
