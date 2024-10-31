@@ -35,7 +35,7 @@
       "institution": "Cornell University",
       "location": "Ithaca, NY, USA",
       "url": "https://cornell.edu",
-      "area": ["Majors in Natural Resources and Animal Science", "Minors in Spanish and Latin American Studies"],
+      "area": ["Majors in Natural Resources and Animal Science, Minors in Spanish and Latin American Studies"],
       "studyType": "BSc",
       "startDate": "2011",
       "endDate": "2015"
@@ -144,7 +144,8 @@
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Ecosystem Services",
-        "Pest Control"
+        "Pest Control",
+        "Conservation"
       ]
     }
   ]
