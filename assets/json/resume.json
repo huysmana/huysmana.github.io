@@ -42,7 +42,7 @@
       }
       
   ],
-  "work": [
+  "experience": [
     {
       "name": "Smithsonian Migratory Bird Center",
       "position": "Research Technician",
@@ -50,41 +50,69 @@
       "startDate": "2020-03",
       "endDate": "2023-08",
       "summary": "Migratory Connectivity Project and Atlas of Migratory Connectivity"
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+    },
+        {
+      "name": "Cal Poly Humboldt",
+      "position": "Graduate Research Assistant",
+      "url": "https://wildlife.humboldt.edu/",
+      "startDate": "2017-09",
+      "endDate": "2020-12",
+      "summary": "Master's Research in Cal Poly Humboldt Wildlife Department. Occupancy and movement analysis to determine how wildfires affect barn owls’ ability to provide rodent pest control as an ecosystem service."
+    },
+        {
+      "name": "Wright Wildlife Refuge",
+      "position": "Bird Bander and Education Coordinator",
+      "url": "https://wildlife.humboldt.edu/wright-wildlife-refuge",
+      "startDate": "2017-09",
+      "endDate": "2020-12",
+      "summary": "Managed MAPS (Monitoring Avian Productivity and Survivorship) bird banding station at wildlife refuge."
+    },
+        {
+      "name": "Smithsonian Migratory Bird Center",
+      "position": "Research and Education Intern",
+      "url": "https://nationalzoo.si.edu/migratory-birds",
+      "startDate": "2015-09",
+      "endDate": "2017-08",
+      "summary": "Intern for various projects including Bridging the Americas, Gray Catbird GPS tagging and behavior research, migration banding at Mad Island Marsh Preserve, Texas, and Migratory Connectivity Project."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Field Research",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Bird banding for songbirds and raptors (including setting up mist nets and safe extraction of birds)",
+        "Nest monitoring; blood sample collection of nestling and adult songbirds",
+        "Attachment of geolocators and GPS transmitters",
+        "Insect sampling using methods like Malaiset traps and sweep nets"
+      ]
+    },
+        {
+      "name": "Computer Programs",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "R programming environment",
+        "ArcGIS",
+        "Microsoft Office Suite",
+        "Adobe Applications"
+      ]
+    },
+        {
+      "name": "Outreach and Communication",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Proficiency in Spanish",
+        "Social media and blog content",
+        "Education event coordination",
+        "Recruiting and training seasonal interns"
+      ]
+    },
+        {
+      "name": "Labwork",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Insect sample processing and identification",
+        "Analysis of fecal samples by DNA metabarcoding"
       ]
     }
   ],
@@ -107,7 +135,8 @@
       "keywords": [
         "Ornithology",
         "Entomology",
-        "Movement"
+        "Movement",
+        "Spatial Ecology"
       ]
     },
         {
@@ -117,16 +146,6 @@
         "Ecosystem Services",
         "Pest Control"
       ]
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
     }
   ]
 }
