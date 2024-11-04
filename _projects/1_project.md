@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Cavity-nesting birds in Virginia
-description: University of Maryland and Virginia Working Landscapes
-img: McDonough-7003.jpg
+description: University of Maryland and Virginia Working Landscapes. Photo by Brooke McDonough
+img: assets/img/McDonough-7003.jpg
 importance: 1
 category: work
 related_publications: true
