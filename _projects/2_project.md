@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Barn Owls in Napa, California
+description: Cal Poly Humboldt
+img: /assets/img/P1012558.JPG
 importance: 2
 category: work
 giscus_comments: true
