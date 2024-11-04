@@ -1,9 +1,8 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Migratory Connectivity
+description: Smithsonian Migratory Bird Center. Photo by Kate Persons
+img: assets/img/20220616-010KP.jpg
 importance: 3
 category: work
 ---
