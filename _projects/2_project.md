@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Barn Owls in Napa, California
-description: Cal Poly Humboldt
-img: /assets/img/P1012558.JPG
+title: Movement Ecology
+description: Photo by Allison Huysman
+img: /assets/img/IMG_3554.JPG
 importance: 2
 category: work
 giscus_comments: true
