@@ -2,7 +2,7 @@
 layout: page
 title: Movement Ecology
 description: Photo by Allison Huysman
-img: /assets/img/IMG_3554.JPG
+img: /assets/img/IMG_3554.jpeg
 importance: 2
 category: work
 giscus_comments: true
