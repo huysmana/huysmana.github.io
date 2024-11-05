@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Migratory Connectivity
-description: Smithsonian Migratory Bird Center. Photo by Kate Persons
-img: assets/img/20220616-010KP.jpg
+title: Agricultural Best Practices
+description: Photo by Allison Huysman
+img: assets/img/File_000.jpeg
 importance: 3
 category: work
 ---
