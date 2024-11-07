@@ -2,6 +2,7 @@
 layout: page
 title: Agricultural Best Practices
 description: Photo by Allison Huysman
+permalink: /research/project3
 img: assets/img/File_000.jpeg
 importance: 3
 category: work
