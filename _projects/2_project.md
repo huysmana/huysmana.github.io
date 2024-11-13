@@ -23,7 +23,7 @@ Both in and outside of agroecosystems, I have conducted research on the movement
     </div>
 </div>
 <div class="caption">
-    I have tagged various avian species for studies of habitat selection and migration. On the left, a long-tailed jaeger, photo by Kate Persons. Middle, a barn owl, photo by Nicole Jean Hill. Left, an eastern meadowlark, photo by Allison Huysman.
+    I have tagged various avian species for studies of habitat selection and migration. On the left, a long-tailed jaeger, photo by Kate Persons. Middle, a barn owl, photo by Nicole Jean Hill. Right, an eastern meadowlark, photo by Allison Huysman.
 </div>
 
 I published the results of these analyses in Ornithological Applications, Ecosphere, and Ecology and Evolution. In my doctoral research at the University of Maryland, I am combining diet analyses from DNA metabarcoding with GPS tracking data from cavity-nesting birds. My research will reveal how the movements of eastern bluebirds and tree swallows affect their diets and potential to provide pest control services.
