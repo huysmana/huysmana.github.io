@@ -12,15 +12,18 @@ Approximately 37% of the world’s land is used for agricultural production. Imp
 
 
 <div class="row">
-    <div class="col-sm mt-2 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/****" title="swallowtails" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/File_000.jpeg" title="nest box" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-2 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/IMG_4076.jpeg" title="farm" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Working landscapes in California and Virginia. Left, a barn owl nest box in a vineyard in California, photo by Allison Huysman. Right, a farm in Virginia, photo by Allison Huysman.
+    Working landscapes in California and Virginia. Left, swallowtails at a farm in Virginia, photo by Allison Huysman. Middle, a barn owl nest box in a vineyard in California, photo by Allison Huysman. Right, a farm in Virginia, photo by Allison Huysman.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
