@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /research/
-description: The central theme of my research is the ecosystem services and disservices of biodiversity in working landscapes. I am especially interested in using science to identify nature-based solutions to climate change and biodiversity loss in agroecosystems. Applying ecological theory to applied systems can help reveal win-win scenarios for people and nature. My research strives to answer questions about how agricultural practices affect ecological communities and how wildlife species interact with their habitat to provide ecosystem services and disservices. The results of this research can be used by land managers to benefit biodiversity and improve human wellbeing. Click through each project below for more information.
+description:
 nav: true
 nav_order: 3
 display_categories: 
@@ -10,6 +10,8 @@ horizontal: false
 ---
 
 <!-- pages/projects.md -->
+The central theme of my research is the ecosystem services and disservices of biodiversity in working landscapes. I am especially interested in using science to identify nature-based solutions to climate change and biodiversity loss in agroecosystems. Applying ecological theory to applied systems can help reveal win-win scenarios for people and nature. My research strives to answer questions about how agricultural practices affect ecological communities and how wildlife species interact with their habitat to provide ecosystem services and disservices. The results of this research can be used by land managers to benefit biodiversity and improve human wellbeing. Click through each project below for more information.
+
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
