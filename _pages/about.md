@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: PhD Student at <a href='https://entomology.umd.edu/'>University of Maryland, Department of Entomology</a>. <br>Research fellow with <a href='https://www.vaworkinglandscapes.org/'>Smithsonian's Virginia Working Landscapes</a>. </br>
 
