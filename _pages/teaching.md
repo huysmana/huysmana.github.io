@@ -10,10 +10,10 @@ nav_order: 6
 In teaching and outreach, my goal is to help people become excited about science and the world around them. Whether teaching in the classroom, training interns for field research, or communicating with community members at outreach events, I believe sharing science can help people care more about the environment.
 
 <div class="row">
-    <div class="col-sm mt-4 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/McDonough_MCD7537.jpg" title="Field work" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-8 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/NJH-birds-1099.jpg" title="MAPS" class="img-fluid rounded z-depth-1" %}
       
     </div>
@@ -21,7 +21,6 @@ In teaching and outreach, my goal is to help people become excited about science
     Left, working with a field intern to collect samples from bluebird nest boxes, photo by Brooke McDonough. Right, teaching bird banding at a MAPS station in Humboldt County, CA, photo by Nicole Jean Hill.
 </div>
 </div>
-
 
 <h2>Classroom Teaching</h2>
 
