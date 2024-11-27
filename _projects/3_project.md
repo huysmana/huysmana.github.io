@@ -37,4 +37,8 @@ Approximately 37% of the world’s land is used for agricultural production. Imp
 
 My research has primarily focused on birds, but my doctoral degree has prepared me to ask questions from the perspective of ecological communities. More research is needed to determine if nest boxes are really an effective means of pest control and how landowners can enhance habitat for other wildlife species. The skills I have developed in my research including statistical analyses and DNA metabarcoding may apply to research of other taxa. Wherever my research takes me, I plan to engage local landowner communities and design research to meet their needs with the end goal of improving habitat for biodiversity.
 
+<p style="display: none;">{% cite 10.1002/ece3.8416 %}</p>
+<p style="display: none;">{% cite 10.1002/ecs2.3438 %}</p>
+<p style="display: none;">{% cite 10.1093/ornithapp/duaa058 %}</p>
+
 
