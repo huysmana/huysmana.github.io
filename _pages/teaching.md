@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching and Outreach
 description: 
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
 In teaching and outreach, my goal is to help people become excited about science and the world around them. Whether teaching in the classroom, training interns for field research, or communicating with community members at outreach events, I believe sharing science can help people care more about the environment.
