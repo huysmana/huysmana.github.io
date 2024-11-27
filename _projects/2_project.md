@@ -37,3 +37,8 @@ I published the results of these analyses in Ornithological Applications, Ecosph
     Barn owl with a GPS tag, photo by Allison Huysman.
 </div>
 
+<p style="display: none;">{% cite 10.1016/j.biocon.2023.110224 %}</p>
+<p style="display: none;">{% cite 10.1093/ornithapp/duac015 %}</p>
+<p style="display: none;">{% cite 10.1093/ornithapp/duaa058 %}</p>
+<p style="display: none;">{% cite atlas %}</p>
+
