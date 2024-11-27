@@ -6,6 +6,7 @@ permalink: /research/project3
 img: assets/img/File_000.jpeg
 importance: 3
 category: work
+related_publicatons: true
 ---
 
 Approximately 37% of the world’s land is used for agricultural production. Implementing sustainable and regenerative agricultural practices can improve soil heath, sequester carbon, provide habitat for wildlife, and enhance human livelihoods. Thus, local agricultural practices create opportunity to increase conservation of biodiversity and resilience to climate change that add up to impacts on a global level. I strive to identify research questions that are relevant to local landowners and that can be translated into best practices that benefit both people and nature.
