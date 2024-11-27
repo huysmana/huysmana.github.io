@@ -6,7 +6,7 @@ permalink: /research/project2
 img: /assets/img/IMG_3554.jpeg
 importance: 2
 category: work
-giscus_comments: true
+related_publications: true
 ---
 
 Both in and outside of agroecosystems, I have conducted research on the movement ecology of migratory and non-migratory bird species. As part of large collaboration, I co-authored the Atlas of Migratory Connectivity for the Bird of North America, soon to be published by Princeton University Press. My contributions included compiling banding and tracking data from over 500 species of migratory birds to map and model for individual species accounts. My master’s research at Cal Poly Humboldt involved barn owl nest box monitoring and GPS tracking to determine the resilience of their nesting and foraging behaviors to landscape changes from wildfires.
