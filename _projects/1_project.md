@@ -53,4 +53,5 @@ In an experimental study design, I am collecting insect samples from sites with 
     Collecting diet and insect samples. On the left, a vial holding a fecal sample from an eastern bluebird, photo by Brooke McDonough. Middle, a malaise trap collecting insects in a cattle farm, photo by Allison Huysman. Right, sweep netting for insects, photo by Brooke McDonough
 </div>
 
-
+<p style="display: none;">{% cite 10.1002/ece3.8416 %}</p>
+<p style="display: none;">{% cite 10.1093/ornithapp/duac015 %}</p>
