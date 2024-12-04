@@ -8,6 +8,7 @@ importance: 3
 category: work
 related_publications: true
 ---
+<b><a href='https://huysmana.github.io/research/'><- Return to main research page.</a></b>
 
 Approximately 37% of the world’s land is used for agricultural production. Implementing sustainable and regenerative agricultural practices can improve soil heath, sequester carbon, provide habitat for wildlife, and enhance human livelihoods. Thus, local agricultural practices create opportunity to increase conservation of biodiversity and resilience to climate change that add up to impacts on a global level. I strive to identify research questions that are relevant to local landowners and that can be translated into best practices that benefit both people and nature.
 
@@ -41,4 +42,4 @@ My research has primarily focused on birds, but my doctoral degree has prepared 
 <p style="display: none;">{% cite 10.1002/ecs2.3438 %}</p>
 <p style="display: none;">{% cite 10.1093/ornithapp/duaa058 %}</p>
 
-
+<b><a href='https://huysmana.github.io/research/'><- Return to main research page.</a></b>
