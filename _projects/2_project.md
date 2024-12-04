@@ -8,6 +8,7 @@ importance: 2
 category: work
 related_publications: true
 ---
+<b><a href='https://huysmana.github.io/research/'><- Return to main research page.</a></b>
 
 Both in and outside of agroecosystems, I have conducted research on the movement ecology of migratory and non-migratory bird species. As part of large collaboration, I co-authored the Atlas of Migratory Connectivity for the Bird of North America, soon to be published by Princeton University Press. My contributions included compiling banding and tracking data from over 500 species of migratory birds to map and model for individual species accounts. My master’s research at Cal Poly Humboldt involved barn owl nest box monitoring and GPS tracking to determine the resilience of their nesting and foraging behaviors to landscape changes from wildfires.
 
@@ -41,4 +42,6 @@ I published the results of these analyses in Ornithological Applications, Ecosph
 <p style="display: none;">{% cite 10.1093/ornithapp/duac015 %}</p>
 <p style="display: none;">{% cite 10.1093/ornithapp/duaa058 %}</p>
 <p style="display: none;">{% cite atlas %}</p>
+
+<b><a href='https://huysmana.github.io/research/'><- Return to main research page.</a></b>
 
