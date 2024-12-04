@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-In teaching and outreach, my goal is to help people become excited about science and the world around them. Whether teaching in the classroom, training interns for field research, or communicating with community members at outreach events, I believe sharing science can help people care more about the environment.
+In teaching and outreach, my goal is to help people become excited about science and the world around them. Whether teaching in the classroom, training interns for field research, or communicating with community members at outreach events, I believe sharing science can help people care more about the environment. These activities help train the next generation of scientists and create opportunities for the agricultural communities to use the results of scientific research to benefit wildlife on their properties.
 
 <div class="row justify-content-md-center">
     <div class="col-sm-3 mt-3 mt-md-0">
