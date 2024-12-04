@@ -8,6 +8,7 @@ importance: 1
 category: work
 related_publications: true
 ---
+<p style="text-align: center"><b><a href='https://huysmana.github.io/research/'>Return to research home.</a></b></p>
 
 My research during my master’s and doctoral degrees has focused on birds as providers of pest control in working landscapes. Cavity-nesting birds that use nest boxes on farms provide an excellent model system for understanding the interactions between birds and other lower trophic levels. My doctoral research at the University of Maryland is focused on bluebird nest boxes in rural Virginia. I am collaborating with the Smithsonian’s Virginia Working Landscapes to assess the impact of eastern bluebirds (<i>Sialia sialis</i>) and tree swallows (<i>Tachycineta bicolor</i>) on insect pests on cattle and produce farms.
 
@@ -55,3 +56,6 @@ In an experimental study design, I am collecting insect samples from sites with 
 
 <p style="display: none;">{% cite 10.1002/ece3.8416 %}</p>
 <p style="display: none;">{% cite 10.1093/ornithapp/duaa058 %}</p>
+
+<p style="text-align: center"><b><a href='https://huysmana.github.io/research/'>Return to research home.</a></b></p>
+
