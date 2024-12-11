@@ -18,6 +18,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Welcome! I am an ecologist currently pursuing a PhD in the University of Maryland's Department of Entomology in the <a href = 'https://www.grunerlab.org/'>Gruner Lab</a>. I am conducting my research in collaboration with the Smithsonian's Virginia Working Landscapes, focused on the pest control services provided by cavity-nesting birds on working lands in Virginia.
+Welcome! I am an ecologist currently pursuing a PhD in the University of Maryland's Department of Entomology in the <a href = 'https://www.grunerlab.org/'>Gruner lab</a>. I am conducting my research in collaboration with the Smithsonian's Virginia Working Landscapes, focused on the pest control services provided by cavity-nesting birds on working lands in Virginia.
 
 Before my PhD, I earned a master's degree from Cal Poly Humboldt's Wildlife Department in the <a href = 'https://wildlife.humboldt.edu/people/matthew-johnson'>Johnson lab</a>. I am originally from New York and earned a bachelor's degree from Cornell University. When I am not doing research, I am often spending time with my dogs, climbing, or gardening.
